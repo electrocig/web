@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-10_1406",
+    "name": "ECD - Electronic Cigarette Distribution",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -30,6 +30,8 @@
       "additionalSetColors": []
     },
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-256-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.7.6",
     "uniqCompNum": 4,
     "versionPublish": "4.7.6"
